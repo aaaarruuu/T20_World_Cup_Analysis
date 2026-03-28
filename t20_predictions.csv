@@ -1,0 +1,60 @@
+year,round,team1,team2,winner,predicted_winner,prediction_correct
+2022,Super12,New Zealand,Australia,New Zealand,New Zealand,1
+2022,Super12,England,Afghanistan,England,England,1
+2022,Super12,Australia,Sri Lanka,Australia,Australia,1
+2022,Super12,England,Ireland,England,England,1
+2022,Super12,New Zealand,Afghanistan,New Zealand,New Zealand,1
+2022,Super12,Pakistan,India,India,India,1
+2022,Super12,India,Netherlands,India,India,1
+2022,Super12,India,Zimbabwe,India,India,1
+2022,Super12,Pakistan,Netherlands,Pakistan,Pakistan,1
+2022,Super12,Australia,Ireland,Australia,Australia,1
+2022,Super12,England,New Zealand,England,England,1
+2022,Super12,Pakistan,Zimbabwe,Pakistan,Pakistan,1
+2022,Super12,South Africa,Zimbabwe,South Africa,India,0
+2022,Super12,Bangladesh,Netherlands,Bangladesh,Pakistan,0
+2022,Super12,India,South Africa,South Africa,South Africa,1
+2022,Super12,Pakistan,South Africa,South Africa,Pakistan,0
+2022,Super12,Bangladesh,Zimbabwe,Zimbabwe,Pakistan,0
+2022,Super12,India,Pakistan,India,India,1
+2022,Super12,South Africa,Netherlands,South Africa,South Africa,1
+2022,Super12,Australia,Afghanistan,Australia,Australia,1
+2022,Super12,England,Sri Lanka,England,England,1
+2022,Super12,New Zealand,Ireland,New Zealand,New Zealand,1
+2022,Super12,South Africa,Pakistan,Pakistan,South Africa,0
+2022,Semi-final,Pakistan,New Zealand,Pakistan,Pakistan,1
+2022,Semi-final,India,England,England,England,1
+2022,Final,Pakistan,England,England,Pakistan,0
+2024,Group,Ireland,India,India,India,1
+2024,Group,Pakistan,USA,USA,Pakistan,0
+2024,Group,Afghanistan,Uganda,Afghanistan,Afghanistan,1
+2024,Group,Australia,England,Australia,Australia,1
+2024,Group,South Africa,Sri Lanka,South Africa,South Africa,1
+2024,Group,Australia,Namibia,Australia,Australia,1
+2024,Group,India,Pakistan,India,India,1
+2024,Group,India,USA,India,India,1
+2024,Group,South Africa,Netherlands,South Africa,South Africa,1
+2024,Super8,South Africa,USA,South Africa,South Africa,1
+2024,Super8,India,Afghanistan,India,India,1
+2024,Super8,Australia,India,India,India,1
+2024,Super8,England,South Africa,England,England,1
+2024,Super8,India,Bangladesh,India,India,1
+2024,Semi-final,South Africa,Afghanistan,South Africa,South Africa,1
+2024,Semi-final,India,England,India,India,1
+2024,Final,South Africa,India,India,India,1
+2026,Group,Netherlands,Pakistan,Pakistan,Pakistan,1
+2026,Group,West Indies,Scotland,West Indies,West Indies,1
+2026,Group,India,USA,India,India,1
+2026,Group,Afghanistan,New Zealand,New Zealand,Pakistan,0
+2026,Group,England,Nepal,England,England,1
+2026,Group,Sri Lanka,Ireland,Sri Lanka,Sri Lanka,1
+2026,Group,India,Namibia,India,India,1
+2026,Group,India,Pakistan,India,India,1
+2026,Group,New Zealand,South Africa,New Zealand,New Zealand,1
+2026,Group,England,West Indies,England,England,1
+2026,Super8,South Africa,India,India,India,1
+2026,Super8,New Zealand,Pakistan,New Zealand,New Zealand,1
+2026,Super8,India,West Indies,India,India,1
+2026,Super8,England,Sri Lanka,England,England,1
+2026,Semi-final,New Zealand,South Africa,New Zealand,New Zealand,1
+2026,Semi-final,India,England,India,India,1

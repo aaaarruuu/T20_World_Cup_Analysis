@@ -1,0 +1,60 @@
+match_id,year,round,team1,team2,winner,venue,city,team1_score,team2_score,margin,player_of_match
+1,2022,Super12,New Zealand,Australia,New Zealand,Sydney Cricket Ground,Sydney,200/3,111,89 runs,Devon Conway
+2,2022,Super12,England,Afghanistan,England,Perth Stadium,Perth,112/5,65,47 runs,Sam Curran
+3,2022,Super12,Australia,Sri Lanka,Australia,Perth Stadium,Perth,157/6,154/7,5 runs,Tim David
+4,2022,Super12,England,Ireland,England,Melbourne Cricket Ground,Melbourne,185/4,137/5,5 wkts,Alex Hales
+5,2022,Super12,New Zealand,Afghanistan,New Zealand,Melbourne Cricket Ground,Melbourne,168/7,111,57 runs,Lockie Ferguson
+6,2022,Super12,Pakistan,India,India,Melbourne Cricket Ground,Melbourne,159/8,160/6,4 wkts,Virat Kohli
+7,2022,Super12,India,Netherlands,India,Sydney Cricket Ground,Sydney,179/2,123/8,56 runs,Virat Kohli
+8,2022,Super12,India,Zimbabwe,India,Melbourne Cricket Ground,Melbourne,186/0,115/9,71 runs,Suryakumar Yadav
+9,2022,Super12,Pakistan,Netherlands,Pakistan,Perth Stadium,Perth,144/3,91,53 runs,Mohammad Rizwan
+10,2022,Super12,Australia,Ireland,Australia,Brisbane,Brisbane,179/4,84,9 wkts,Matthew Wade
+11,2022,Super12,England,New Zealand,England,Brisbane,Brisbane,170/6,149/6,20 runs,Jos Buttler
+12,2022,Super12,Pakistan,Zimbabwe,Pakistan,Perth Stadium,Perth,130/5,122/7,1 run,Shadab Khan
+13,2022,Super12,South Africa,Zimbabwe,South Africa,Hobart,Hobart,205/3,115,90 runs,Rilee Rossouw
+14,2022,Super12,Bangladesh,Netherlands,Bangladesh,Hobart,Hobart,144/8,136/8,9 runs,Taskin Ahmed
+15,2022,Super12,India,South Africa,South Africa,Perth Stadium,Perth,133/9,134/5,5 wkts,Deepak Hooda
+16,2022,Super12,Pakistan,South Africa,South Africa,Sydney Cricket Ground,Sydney,185/5,186/6,2 runs,David Miller
+17,2022,Super12,Bangladesh,Zimbabwe,Zimbabwe,Brisbane,Brisbane,150/5,152/3,3 wkts,Sean Williams
+18,2022,Super12,India,Pakistan,India,Melbourne Cricket Ground,Melbourne,182/5,183/0,0 runs,Virat Kohli
+19,2022,Super12,South Africa,Netherlands,South Africa,Adelaide,Adelaide,158/4,100,58 runs,Quinton de Kock
+20,2022,Super12,Australia,Afghanistan,Australia,Adelaide,Adelaide,168/8,120,8 wkts,Glenn Maxwell
+21,2022,Super12,England,Sri Lanka,England,Sydney Cricket Ground,Sydney,163/7,137/9,26 runs,Dawid Malan
+22,2022,Super12,New Zealand,Ireland,New Zealand,Adelaide,Adelaide,129/4,115/8,35 runs,Trent Boult
+23,2022,Super12,South Africa,Pakistan,Pakistan,Sydney Cricket Ground,Sydney,185/5,186/6,2 runs,Shadab Khan
+24,2022,Semi-final,Pakistan,New Zealand,Pakistan,Sydney Cricket Ground,Sydney,152/4,153/6,7 wkts,Mohammad Rizwan
+25,2022,Semi-final,India,England,England,Adelaide Oval,Adelaide,168/6,169/0,10 wkts,Alex Hales
+26,2022,Final,Pakistan,England,England,Melbourne Cricket Ground,Melbourne,137/8,138/5,5 wkts,Sam Curran
+27,2024,Group,Ireland,India,India,Nassau County Stadium,New York,96/5,97/2,8 wkts,Jasprit Bumrah
+28,2024,Group,Pakistan,USA,USA,Grand Prairie Stadium,Dallas,159/7,159/3,Super Over,Saurabh Netravalkar
+29,2024,Group,Afghanistan,Uganda,Afghanistan,Guyana,Guyana,183/5,58,125 runs,Rahmanullah Gurbaz
+30,2024,Group,Australia,England,Australia,Kensington Oval,Barbados,201/7,165/6,36 runs,Travis Head
+31,2024,Group,South Africa,Sri Lanka,South Africa,Nassau County Stadium,New York,77,80/4,6 wkts,Kagiso Rabada
+32,2024,Group,Australia,Namibia,Australia,Antigua,Antigua,72,74/1,9 wkts,Mitchell Marsh
+33,2024,Group,India,Pakistan,India,Nassau County Stadium,New York,119/8,120/6,6 runs,Jasprit Bumrah
+34,2024,Group,India,USA,India,Central Broward Park,Florida,111/3,110/8,7 wkts,Suryakumar Yadav
+35,2024,Group,South Africa,Netherlands,South Africa,Nassau County Stadium,New York,103/9,106/6,4 wkts,Quinton de Kock
+36,2024,Super8,South Africa,USA,South Africa,Antigua,Antigua,195/4,177/9,18 runs,Quinton de Kock
+37,2024,Super8,India,Afghanistan,India,Kensington Oval,Barbados,181/8,134/7,47 runs,Rohit Sharma
+38,2024,Super8,Australia,India,India,Gros Islet,Saint Lucia,205/5,206/8,24 runs,Virat Kohli
+39,2024,Super8,England,South Africa,England,Kensington Oval,Barbados,164/7,163/7,2 runs,Adil Rashid
+40,2024,Super8,India,Bangladesh,India,Antigua,Antigua,196/5,146/8,50 runs,Rohit Sharma
+41,2024,Semi-final,South Africa,Afghanistan,South Africa,Brian Lara Academy,Trinidad,56,57/1,9 wkts,Marco Jansen
+42,2024,Semi-final,India,England,India,Providence Stadium,Guyana,171/7,103,68 runs,Jasprit Bumrah
+43,2024,Final,South Africa,India,India,Kensington Oval,Barbados,176/7,169/8,7 runs,Virat Kohli
+44,2026,Group,Netherlands,Pakistan,Pakistan,R.Premadasa Stadium,Colombo,147,148/7,3 wkts,Sahibzada Farhan
+45,2026,Group,West Indies,Scotland,West Indies,Eden Gardens,Kolkata,182/5,147,35 runs,Evin Lewis
+46,2026,Group,India,USA,India,Wankhede Stadium,Mumbai,161/9,132/8,29 runs,Sanju Samson
+47,2026,Group,Afghanistan,New Zealand,New Zealand,MA Chidambaram Stadium,Chennai,182/6,183/5,5 wkts,Finn Allen
+48,2026,Group,England,Nepal,England,Wankhede Stadium,Mumbai,184/7,180/6,4 runs,Phil Salt
+49,2026,Group,Sri Lanka,Ireland,Sri Lanka,R.Premadasa Stadium,Colombo,163/6,143,20 runs,Pathum Nissanka
+50,2026,Group,India,Namibia,India,Wankhede Stadium,Mumbai,212/2,103,109 runs,Ishan Kishan
+51,2026,Group,India,Pakistan,India,Wankhede Stadium,Mumbai,240/3,141,99 runs,Sanju Samson
+52,2026,Group,New Zealand,South Africa,New Zealand,MA Chidambaram Stadium,Chennai,190/4,153,37 runs,Finn Allen
+53,2026,Group,England,West Indies,England,Eden Gardens,Kolkata,195/6,174/8,21 runs,Jacob Bethell
+54,2026,Super8,South Africa,India,India,Eden Gardens,Kolkata,183/6,184/3,7 wkts,Suryakumar Yadav
+55,2026,Super8,New Zealand,Pakistan,New Zealand,Eden Gardens,Kolkata,178/5,160/8,18 runs,Tim Seifert
+56,2026,Super8,India,West Indies,India,Wankhede Stadium,Mumbai,202/4,165/9,37 runs,Ishan Kishan
+57,2026,Super8,England,Sri Lanka,England,MA Chidambaram Stadium,Chennai,182/5,145,37 runs,Jacob Bethell
+58,2026,Semi-final,New Zealand,South Africa,New Zealand,MA Chidambaram Stadium,Chennai,210/4,57,9 wkts,Finn Allen
+59,2026,Semi-final,India,England,India,Wankhede Stadium,Mumbai,253/7,246/7,7 runs,Sanju Samson
